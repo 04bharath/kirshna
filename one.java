@@ -1,6 +1,6 @@
 public class one
 {
-	public static viod main(String[] args)
+	public static void main(String[] args)
 	{
 		System.out.println("Hello Tumkur welome to tumkur");
 	}
